@@ -9,5 +9,6 @@ public class hello
 		System.out.println(x);
 		x+=2;
 		System.out.println(x);
+		int k=0;
 	}
 }
