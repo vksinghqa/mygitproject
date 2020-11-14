@@ -7,5 +7,8 @@ public class hello
 		//this is changed\
 		int x=9;
 		System.out.println(x);
+		x+=2;
+		System.out.println(x);
+		int k=0;
 	}
 }
